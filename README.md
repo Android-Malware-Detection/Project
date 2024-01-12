@@ -3,4 +3,4 @@ The  project aims to use a machine learning thechniques such  as ensemble learni
 Developed by 
   Suhaibuddin Ahmed,
   Rahman Mehmood ,
-  Usama Bin Faheem ,
+  Usama Bin Faheem .
